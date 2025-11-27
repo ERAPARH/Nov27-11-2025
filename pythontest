@@ -3,3 +3,6 @@ print("hello devops")
 print("welcome to devops")
 print("Good morning")
 print("good morning2")
+name ="Hari"
+print(name)
+
